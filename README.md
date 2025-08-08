@@ -1,4 +1,4 @@
-# 🏆 GlobalSports_Unios
+# 🏆 GlobalSports_Union
 
 Este proyecto implementa una base de datos en **MongoDB** para gestionar la información de una competencia deportiva internacional. La base de datos almacena detalles sobre delegaciones, disciplinas, equipos y atletas, y cuenta con un conjunto de scripts para la inserción de datos iniciales y la demostración de consultas.
 
