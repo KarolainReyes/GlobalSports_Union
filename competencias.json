@@ -1,0 +1,126 @@
+[
+  {
+    "_id": {
+      "$oid": "6895aaa104f09d4ba08cc300"
+    },
+    "nombre": "Final de Fútbol Masculino - Colombia vs México",
+    "disciplinaId": {
+      "$oid": "6893a88f70ee52deff4ca0db"
+    },
+    "fecha": {
+      "$date": "2025-08-15T18:00:00Z"
+    },
+    "ubicacion": {
+      "lugar": "Estadio Nacional",
+      "ciudad": "Medellín"
+    },
+    "tipoParticipacion": "Equipo",
+    "equiposParticipantes": [
+      {
+        "$oid": "6895699504f09d4ba08cc1fe"
+      },
+      {
+        "$oid": "6895699504f09d4ba08cc1ff"
+      }
+    ],
+    "resultado": {
+      "ganador": {
+        "$oid": "6895699504f09d4ba08cc1fe"
+      },
+      "marcador": "3-1"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6895aaa104f09d4ba08cc301"
+    },
+    "nombre": "100m Femenino - Semifinal",
+    "disciplinaId": {
+      "$oid": "6893a70c70ee52deff4ca0da"
+    },
+    "fecha": {
+      "$date": "2025-08-12T10:30:00Z"
+    },
+    "ubicacion": {
+      "lugar": "Estadio de Atletismo",
+      "ciudad": "Bogotá"
+    },
+    "tipoParticipacion": "Individual",
+    "atletasParticipantes": [
+      {
+        "$oid": "6895568f04f09d4ba08cc1f2"
+      },
+      {
+        "$oid": "6895568f04f09d4ba08cc1f3"
+      }
+    ],
+    "resultado": {
+      "ganador": {
+        "$oid": "6895568f04f09d4ba08cc1f2"
+      },
+      "tiempo": "11.34s"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6895aaa104f09d4ba08cc302"
+    },
+    "nombre": "Final 200m Libre Masculino - Natación",
+    "disciplinaId": {
+      "$oid": "6893a70c70ee52deff4ca0d9"
+    },
+    "fecha": {
+      "$date": "2025-08-18T14:00:00Z"
+    },
+    "ubicacion": {
+      "lugar": "Piscina Olímpica",
+      "ciudad": "Bogotá"
+    },
+    "tipoParticipacion": "Individual",
+    "atletasParticipantes": [
+      {
+        "$oid": "689554e904f09d4ba08cc1f0"
+      },
+      {
+        "$oid": "689554e904f09d4ba08cc1f1"
+      }
+    ],
+    "resultado": {
+      "ganador": {
+        "$oid": "689554e904f09d4ba08cc1f1"
+      },
+      "tiempo": "1:47.89"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6895aaa104f09d4ba08cc303"
+    },
+    "nombre": "Ciclismo Ruta - Carrera Individual",
+    "disciplinaId": {
+      "$oid": "6893a93f70ee52deff4ca0dd"
+    },
+    "fecha": {
+      "$date": "2025-08-20T09:00:00Z"
+    },
+    "ubicacion": {
+      "lugar": "Circuito Urbano",
+      "ciudad": "Cali"
+    },
+    "tipoParticipacion": "Individual",
+    "atletasParticipantes": [
+      {
+        "$oid": "6895594504f09d4ba08cc1f6"
+      },
+      {
+        "$oid": "6895594504f09d4ba08cc1f9"
+      }
+    ],
+    "resultado": {
+      "ganador": {
+        "$oid": "6895594504f09d4ba08cc1f6"
+      },
+      "tiempo": "3h 14m"
+    }
+  }
+]
