@@ -1,0 +1,40 @@
+[{
+  "_id": {
+    "$oid": "6893d0da70ee52deff4ca0de"
+  },
+  "nombre": "Delegación Colombiana de Deportes",
+  "pais": {
+    "nombre": "Colombia",
+    "codigo": "COL"
+  }
+},
+{
+  "_id": {
+    "$oid": "6893d0da70ee52deff4ca0df"
+  },
+  "nombre": "Delegación Mexicana de Deportes",
+  "pais": {
+    "nombre": "Mexico",
+    "codigo": "MEX"
+  }
+},
+{
+  "_id": {
+    "$oid": "6893d0da70ee52deff4ca0e0"
+  },
+  "nombre": "Delegación Argentina de Deportes",
+  "pais": {
+    "nombre": "Argentina",
+    "codigo": "ARG"
+  }
+},
+{
+  "_id": {
+    "$oid": "6893d0da70ee52deff4ca0e1"
+  },
+  "nombre": "Delegación Brasileña de Deportes",
+  "pais": {
+    "nombre": "Brasil",
+    "codigo": "BRA"
+  }
+}]

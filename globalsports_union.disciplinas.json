@@ -1,0 +1,55 @@
+[{
+  "_id": {
+    "$oid": "6893a70c70ee52deff4ca0d9"
+  },
+  "nombre": "Natación",
+  "categoria": "Individual",
+  "genero": "Mixto",
+  "descripcion": "Competencias acuáticas por distancia y estilo",
+  "ubicacion": {
+    "lugar": "Piscina Olímpica",
+    "ciudad": "Bogotá"
+  },
+  "estado": true
+},
+{
+  "_id": {
+    "$oid": "6893a70c70ee52deff4ca0da"
+  },
+  "nombre": "Atletismo",
+  "categoria": "Individual",
+  "genero": "Masculino",
+  "descripcion": "Carreras de velocidad, medio fondo, fondo y relevos. También incluye saltos y lanzamientos.",
+  "ubicacion": {
+    "lugar": "Estadio de Atletismo",
+    "ciudad": "Bogotá"
+  },
+  "estado": true
+},
+{
+  "_id": {
+    "$oid": "6893a88f70ee52deff4ca0db"
+  },
+  "nombre": "Fútbol",
+  "categoria": "Equipo",
+  "genero": "Masculino",
+  "descripcion": "Competencia de fútbol 11 entre equipos nacionales conformados por hasta 18 jugadores.",
+  "ubicacion": {
+    "lugar": "Estadio Nacional",
+    "ciudad": "Medellín"
+  },
+  "estado": true
+},
+{
+  "_id": {
+    "$oid": "6893a93f70ee52deff4ca0dd"
+  },
+  "nombre": "Ciclismo",
+  "categoria": "Individual",
+  "genero": "Mixto",
+  "descripcion": "Pruebas de ciclismo en ruta y contrarreloj con participación individual y por equipos.",
+  "ubicacion": {
+    "lugar": "Circuito Urbano",
+    "ciudad": "Cali"
+  }
+}]

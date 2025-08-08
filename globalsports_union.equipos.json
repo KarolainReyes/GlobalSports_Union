@@ -1,0 +1,304 @@
+[{
+  "_id": {
+    "$oid": "6895699504f09d4ba08cc1fe"
+  },
+  "nombre": "Selección Colombia Masculina",
+  "disciplinaId": {
+    "$oid": "6893a88f70ee52deff4ca0db"
+  },
+  "delegacionId": {
+    "$oid": "6893d0da70ee52deff4ca0de"
+  },
+  "pais": {
+    "nombre": "Colombia",
+    "codigo": "COL"
+  },
+  "entrenador": "Reinaldo Torres",
+  "sedeEntrenamiento": "Estadio El Campín",
+  "fundadoEn": 2023
+},
+{
+  "_id": {
+    "$oid": "6895699504f09d4ba08cc1ff"
+  },
+  "nombre": "Selección México Masculina",
+  "disciplinaId": {
+    "$oid": "6893a88f70ee52deff4ca0db"
+  },
+  "delegacionId": {
+    "$oid": "6893d0da70ee52deff4ca0df"
+  },
+  "pais": {
+    "nombre": "México",
+    "codigo": "MEX"
+  },
+  "entrenador": "Luis Ramírez",
+  "sedeEntrenamiento": "Estadio Azteca",
+  "fundadoEn": 2022
+},
+{
+  "_id": {
+    "$oid": "6895699504f09d4ba08cc200"
+  },
+  "nombre": "Selección Argentina Masculina",
+  "disciplinaId": {
+    "$oid": "6893a88f70ee52deff4ca0db"
+  },
+  "delegacionId": {
+    "$oid": "6893d0da70ee52deff4ca0e0"
+  },
+  "pais": {
+    "nombre": "Argentina",
+    "codigo": "ARG"
+  },
+  "entrenador": "Martín Bianchi",
+  "sedeEntrenamiento": "Estadio Monumental",
+  "fundadoEn": 2021
+},
+{
+  "_id": {
+    "$oid": "6895699504f09d4ba08cc201"
+  },
+  "nombre": "Selección Brasil Masculina",
+  "disciplinaId": {
+    "$oid": "6893a88f70ee52deff4ca0db"
+  },
+  "delegacionId": {
+    "$oid": "6893d0da70ee52deff4ca0e1"
+  },
+  "pais": {
+    "nombre": "Brasil",
+    "codigo": "BRA"
+  },
+  "entrenador": "Pedro Lima",
+  "sedeEntrenamiento": "Estadio Maracaná",
+  "fundadoEn": 2023
+},
+{
+  "_id": {
+    "$oid": "64e8d5b3bfa73c2d0c1c8f95"
+  },
+  "nombre": "Equipo Nacional de Natación Colombia",
+  "disciplinaId": {
+    "$oid": "6893a70c70ee52deff4ca0d9"
+  },
+  "delegacionId": {
+    "$oid": "6893d0da70ee52deff4ca0de"
+  },
+  "pais": {
+    "nombre": "Colombia",
+    "codigo": "COL"
+  },
+  "entrenador": "Diana Salazar",
+  "sedeEntrenamiento": "Complejo Acuático Simón Bolívar",
+  "fundadoEn": 2022
+},
+{
+  "_id": {
+    "$oid": "64e8d5b3bfa73c2d0c1c8f96"
+  },
+  "nombre": "Equipo Nacional de Natación México",
+  "disciplinaId": {
+    "$oid": "6893a70c70ee52deff4ca0d9"
+  },
+  "delegacionId": {
+    "$oid": "6893d0da70ee52deff4ca0df"
+  },
+  "pais": {
+    "nombre": "México",
+    "codigo": "MEX"
+  },
+  "entrenador": "Javier Mendoza",
+  "sedeEntrenamiento": "Centro Acuático Scotiabank",
+  "fundadoEn": 2023
+},
+{
+  "_id": {
+    "$oid": "64e8d5b3bfa73c2d0c1c8f97"
+  },
+  "nombre": "Equipo Nacional de Natación Argentina",
+  "disciplinaId": {
+    "$oid": "6893a70c70ee52deff4ca0d9"
+  },
+  "delegacionId": {
+    "$oid": "6893d0da70ee52deff4ca0e0"
+  },
+  "pais": {
+    "nombre": "Argentina",
+    "codigo": "ARG"
+  },
+  "entrenador": "Soledad Núñez",
+  "sedeEntrenamiento": "Natatorio del Parque Olímpico",
+  "fundadoEn": 2021
+},
+{
+  "_id": {
+    "$oid": "64e8d5b3bfa73c2d0c1c8f98"
+  },
+  "nombre": "Equipo Nacional de Natación Brasil",
+  "disciplinaId": {
+    "$oid": "6893a70c70ee52deff4ca0d9"
+  },
+  "delegacionId": {
+    "$oid": "6893d0da70ee52deff4ca0e1"
+  },
+  "pais": {
+    "nombre": "Brasil",
+    "codigo": "BRA"
+  },
+  "entrenador": "Carlos Moreira",
+  "sedeEntrenamiento": "Parque Acuático María Lenk",
+  "fundadoEn": 2020
+},
+{
+  "_id": {
+    "$oid": "689572c804f09d4ba08cc202"
+  },
+  "nombre": "Equipo Nacional de Atletismo Colombia",
+  "disciplinaId": {
+    "$oid": "6893a70c70ee52deff4ca0da"
+  },
+  "delegacionId": {
+    "$oid": "6893d0da70ee52deff4ca0de"
+  },
+  "pais": {
+    "nombre": "Colombia",
+    "codigo": "COL"
+  },
+  "entrenador": "Luisa Rincón",
+  "sedeEntrenamiento": "Villa Olímpica de Bogotá",
+  "fundadoEn": 2021
+},
+{
+  "_id": {
+    "$oid": "689572c804f09d4ba08cc203"
+  },
+  "nombre": "Equipo Nacional de Atletismo México",
+  "disciplinaId": {
+    "$oid": "6893a70c70ee52deff4ca0da"
+  },
+  "delegacionId": {
+    "$oid": "6893d0da70ee52deff4ca0df"
+  },
+  "pais": {
+    "nombre": "México",
+    "codigo": "MEX"
+  },
+  "entrenador": "Marcos Téllez",
+  "sedeEntrenamiento": "Centro Deportivo Olímpico Mexicano",
+  "fundadoEn": 2020
+},
+{
+  "_id": {
+    "$oid": "689572c804f09d4ba08cc204"
+  },
+  "nombre": "Equipo Nacional de Atletismo Argentina",
+  "disciplinaId": {
+    "$oid": "6893a70c70ee52deff4ca0da"
+  },
+  "delegacionId": {
+    "$oid": "6893d0da70ee52deff4ca0e0"
+  },
+  "pais": {
+    "nombre": "Argentina",
+    "codigo": "ARG"
+  },
+  "entrenador": "Sofía Martínez",
+  "sedeEntrenamiento": "Centro Nacional de Alto Rendimiento Deportivo (CeNARD)",
+  "fundadoEn": 2022
+},
+{
+  "_id": {
+    "$oid": "689572c804f09d4ba08cc205"
+  },
+  "nombre": "Equipo Nacional de Atletismo Brasil",
+  "disciplinaId": {
+    "$oid": "6893a70c70ee52deff4ca0da"
+  },
+  "delegacionId": {
+    "$oid": "6893d0da70ee52deff4ca0e1"
+  },
+  "pais": {
+    "nombre": "Brasil",
+    "codigo": "BRA"
+  },
+  "entrenador": "Felipe Souza",
+  "sedeEntrenamiento": "Centro de Atletismo de São Paulo",
+  "fundadoEn": 2019
+},
+{
+  "_id": {
+    "$oid": "689574df04f09d4ba08cc206"
+  },
+  "nombre": "Equipo Nacional de Ciclismo Colombia",
+  "disciplinaId": {
+    "$oid": "6893a93f70ee52deff4ca0dd"
+  },
+  "delegacionId": {
+    "$oid": "6893d0da70ee52deff4ca0de"
+  },
+  "pais": {
+    "nombre": "Colombia",
+    "codigo": "COL"
+  },
+  "entrenador": "Julián Herrera",
+  "sedeEntrenamiento": "Velódromo Alcides Nieto Patiño",
+  "fundadoEn": 2018
+},
+{
+  "_id": {
+    "$oid": "689574df04f09d4ba08cc207"
+  },
+  "nombre": "Equipo Nacional de Ciclismo México",
+  "disciplinaId": {
+    "$oid": "6893a93f70ee52deff4ca0dd"
+  },
+  "delegacionId": {
+    "$oid": "6893d0da70ee52deff4ca0df"
+  },
+  "pais": {
+    "nombre": "México",
+    "codigo": "MEX"
+  },
+  "entrenador": "Carlos Navarro",
+  "sedeEntrenamiento": "Velódromo Olímpico Agustín Melgar",
+  "fundadoEn": 2020
+},
+{
+  "_id": {
+    "$oid": "689574df04f09d4ba08cc208"
+  },
+  "nombre": "Equipo Nacional de Ciclismo Argentina",
+  "disciplinaId": {
+    "$oid": "6893a93f70ee52deff4ca0dd"
+  },
+  "delegacionId": {
+    "$oid": "6893d0da70ee52deff4ca0e0"
+  },
+  "pais": {
+    "nombre": "Argentina",
+    "codigo": "ARG"
+  },
+  "entrenador": "Lucía Fernández",
+  "sedeEntrenamiento": "Velódromo de Mendoza",
+  "fundadoEn": 2021
+},
+{
+  "_id": {
+    "$oid": "689574df04f09d4ba08cc209"
+  },
+  "nombre": "Equipo Nacional de Ciclismo Brasil",
+  "disciplinaId": {
+    "$oid": "6893a93f70ee52deff4ca0dd"
+  },
+  "delegacionId": {
+    "$oid": "6893d0da70ee52deff4ca0e1"
+  },
+  "pais": {
+    "nombre": "Brasil",
+    "codigo": "BRA"
+  },
+  "entrenador": "Eduardo Lima",
+  "sedeEntrenamiento": "Centro de Ciclismo de Río de Janeiro",
+  "fundadoEn": 2019
+}]
